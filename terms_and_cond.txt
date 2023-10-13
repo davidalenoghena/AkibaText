@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Terms of Use for Akiba</title>
+</head>
+<body>
+    <h1>Terms of Use for Akiba</h1>
+    <p><strong>Effective Date:</strong> 1 October 2023</p>
+    
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using Akiba (the "Platform"), you agree to comply with and be bound by these Terms of Use ("Terms"). If you do not agree with these Terms, please do not use the Platform.</p>
+
+    <h2>2. Eligibility</h2>
+    <p>You must be at least 18 years old and capable of forming a legally binding contract to use the Platform. By using the Platform, you represent and warrant that you meet these requirements.</p>
+
+    <h2>3. Use of the Platform</h2>
+    <p>You agree to use the Platform only for lawful and authorized purposes. You may not use the Platform in any way that violates applicable laws or regulations, infringes on the rights of others, or harms the security and integrity of the Platform.</p>
+
+    <h2>4. Privacy</h2>
+    <p>Your use of the Platform is also governed by our Privacy Policy, which is incorporated into these Terms by reference. Please review the Privacy Policy to understand how we collect, use, and disclose your personal information.</p>
+
+    <h2>5. User Accounts</h2>
+    <p>To access certain features of the Platform, you may be required to create a user account. You are responsible for maintaining the confidentiality of your account credentials and all activities under your account.</p>
+
+    <h2>6. Transactions</h2>
+    <p>The Platform may allow you to conduct financial transactions. Any financial transactions are subject to additional terms and conditions. By using the Platform for financial transactions, you agree to comply with these additional terms.</p>
+
+    <h2>7. Intellectual Property</h2>
+    <p>The content, design, and all materials on the Platform are owned by us or our licensors and are protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute any content from the Platform without our prior written consent.</p>
+
+    <h2>8. Disclaimers</h2>
+    <p>The Platform is provided "as is" and "as available" without any warranties. We do not guarantee that the Platform will be error-free, secure, or free from viruses. You use the Platform at your own risk.</p>
+
+    <h2>9. Limitation of Liability</h2>
+    <p>To the extent permitted by applicable law, we shall not be liable for any indirect, incidental, consequential, or punitive damages, or for any loss of profits or revenue, whether incurred directly or indirectly.</p>
+
+    <h2>10. Termination</h2>
+    <p>We reserve the right to suspend, restrict, or terminate your access to the Platform at our discretion, with or without cause, and with or without notice.</p>
+
+    <h2>11. Changes to Terms</h2>
+    <p>We may revise these Terms at any time by updating this page. You are bound by the most current version of these Terms, so we encourage you to review them periodically.</p>
+
+    <h2>12. Governing Law</h2>
+    <p>These Terms are governed by and construed in accordance with the laws of the Federal Republic of Nigeria, and you submit to the non-exclusive jurisdiction of the state and federal courts located in Lagos, Nigeria for the resolution of any disputes.</p>
+
+    <h2>Contact Information:</h2>
+    <p>If you have any questions about these Terms, please contact us at <a href="mailto:info@akibatribe.com">info@akibatribe.com</a></p>
+</body>
+</html>
+
